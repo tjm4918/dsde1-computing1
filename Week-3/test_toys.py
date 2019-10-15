@@ -1,6 +1,6 @@
 '''
 test_toys.py
-
+i love lamp
 Unit tests for toy functions.
 '''
 
