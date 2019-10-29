@@ -2,6 +2,7 @@
 test_toys.py
 i love lamp 2
 Unit tests for toy functions.
+Haha I eat kids for fun always
 '''
 
 
